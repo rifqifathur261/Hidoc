@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "920070322280",
+    "firebase_url": "https://hidoc-2f6f6.firebaseio.com",
+    "project_id": "hidoc-2f6f6",
+    "storage_bucket": "hidoc-2f6f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920070322280:android:736bcd7c663f41289b63dd",
+        "android_client_info": {
+          "package_name": "tech.tedybear.hidoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920070322280-rompbntoc8jed5o4qo4bls6m0lus16pp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.tedybear.hidoc",
+            "certificate_hash": "bb72dbc083a916e824652c8fd5ac01291dacef42"
+          }
+        },
+        {
+          "client_id": "920070322280-jqb6kgtvta4t61ounk7ak7u2oatuc163.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmvDmrlBoTEZEuy-kAxThIv1-aJ3A-cNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920070322280-jqb6kgtvta4t61ounk7ak7u2oatuc163.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

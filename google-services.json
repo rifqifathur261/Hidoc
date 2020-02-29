@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "492008107417",
+    "firebase_url": "https://hidoc-29b3a.firebaseio.com",
+    "project_id": "hidoc-29b3a",
+    "storage_bucket": "hidoc-29b3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492008107417:android:7ae9b60deb5414da443708",
+        "android_client_info": {
+          "package_name": "tech.tedybear.hidoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492008107417-mjleqap4josr08plc0k4gfcdbige3462.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBedWv_iqXZf00TXjFFo_H91njrieLkOZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492008107417-mjleqap4josr08plc0k4gfcdbige3462.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
